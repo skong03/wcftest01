@@ -1,0 +1,6 @@
+c:\users\skong03\documents\visual studio 2013\Projects\WcfServiceTest01\WcfServiceTest01\bin\Debug\WcfServiceTest01.dll.config
+c:\users\skong03\documents\visual studio 2013\Projects\WcfServiceTest01\WcfServiceTest01\bin\Debug\WcfServiceTest01.dll
+c:\users\skong03\documents\visual studio 2013\Projects\WcfServiceTest01\WcfServiceTest01\bin\Debug\WcfServiceTest01.pdb
+c:\users\skong03\documents\visual studio 2013\Projects\WcfServiceTest01\WcfServiceTest01\obj\Debug\WcfServiceTest01.csprojResolveAssemblyReference.cache
+c:\users\skong03\documents\visual studio 2013\Projects\WcfServiceTest01\WcfServiceTest01\obj\Debug\WcfServiceTest01.dll
+c:\users\skong03\documents\visual studio 2013\Projects\WcfServiceTest01\WcfServiceTest01\obj\Debug\WcfServiceTest01.pdb
